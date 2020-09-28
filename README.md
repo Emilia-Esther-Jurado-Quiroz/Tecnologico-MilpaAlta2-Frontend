@@ -47,31 +47,4 @@ docker exec -it mongodb bash
 
 ### Resultados
 
-##### Ejemplo de Framework Django
-view.py
-
-```
-class get():
-
-    def post():
-        return
-```
-
-template.html
-
-```
-<html>
-
-</html>
-```
-
-model.py
-
-```
-import Name
-
-class Estudiantes():
-    nombre = Name()
-```
-
 ### Conclusión
