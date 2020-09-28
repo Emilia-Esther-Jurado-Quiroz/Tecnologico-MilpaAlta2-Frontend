@@ -4,13 +4,12 @@
 
 Este repositorio contiene ejemplos de como levantar contenedores con **Dockerfiles** de los siguientes servicios:
 
-- Angular
-- Mongo
+* Angular
+* Mongo
 
 >Requerimientos
 
-Para poder levantar estos servicios, debe tener instalado el servicio de [Docker] (https://docs.docker.com/get-docker/)
-
+Para poder levantar estos servicios, debe tener instalado el servicio de [Docker](https://docs.docker.com/get-docker/).
 
 >Angular
 
