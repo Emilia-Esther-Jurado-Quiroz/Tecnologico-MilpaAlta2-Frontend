@@ -11,3 +11,5 @@ Para poder levantar estos servicios, debe tener instalado el servicio de [Docker
 ##### Angular
 
 [Angular](https://angular.io/docs) es un framework de diseño de aplicaciones y una plataforma de desarrollo para crear aplicaciones de una sola página eficientes y sofisticadas.
+
+### Marco Teórico
